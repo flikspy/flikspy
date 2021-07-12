@@ -1,7 +1,8 @@
+![Python](https://img.shields.io/badge/Python-090401?style=for-the-badge&logo=python&logoColor=32CD32)
+
+
 [![Header](https://github.com/flikspy/flikspy/blob/main/assets/dedsec.gif)](http://thequietplaceproject.xyz/thequietplace)
 
-About me
+## 🐍Python Junior Developer
 
-Laungauges
-
-Facts
+[![Header](https://github.com/flikspy/flikspy/blob/main/assets/ctOS.gif)](https://chrismckenzie.com/)
